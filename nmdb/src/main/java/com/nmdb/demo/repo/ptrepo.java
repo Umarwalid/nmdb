@@ -12,7 +12,7 @@ import com.nmdb.demo.model.patient;
 
 
 
-@RepositoryRestResource(collectionResourceRel ="std",path = "std") 
+@RepositoryRestResource(collectionResourceRel ="patient",path = "patient") 
 public interface ptrepo extends JpaRepository<patient,Integer> {
 	
 	List<patient> findByFirstname(String Firstname);
