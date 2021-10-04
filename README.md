@@ -1,7 +1,16 @@
 # u-med
+
+click on code> download zip,
+
+go to download ad unzip nmdb-master,
+
 download eclispe,
 
 go to help>marketplace> and download the springboot extension,
+
+go to file>open project from file system> directory,
+
+search and select the unzipped nmdb-master,
 
 open the project,
 
